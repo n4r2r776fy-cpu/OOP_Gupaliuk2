@@ -1,0 +1,7 @@
+E:\OOP\OOP_Gupaliuk2\OOP_Gupaliuk_Roman\IndependentWork12\IndependentWork12\bin\Debug\IndependentWork12.exe.config
+E:\OOP\OOP_Gupaliuk2\OOP_Gupaliuk_Roman\IndependentWork12\IndependentWork12\bin\Debug\IndependentWork12.exe
+E:\OOP\OOP_Gupaliuk2\OOP_Gupaliuk_Roman\IndependentWork12\IndependentWork12\bin\Debug\IndependentWork12.pdb
+E:\OOP\OOP_Gupaliuk2\OOP_Gupaliuk_Roman\IndependentWork12\IndependentWork12\obj\Debug\IndependentWork12.csproj.AssemblyReference.cache
+E:\OOP\OOP_Gupaliuk2\OOP_Gupaliuk_Roman\IndependentWork12\IndependentWork12\obj\Debug\IndependentWork12.csproj.CoreCompileInputs.cache
+E:\OOP\OOP_Gupaliuk2\OOP_Gupaliuk_Roman\IndependentWork12\IndependentWork12\obj\Debug\IndependentWork12.exe
+E:\OOP\OOP_Gupaliuk2\OOP_Gupaliuk_Roman\IndependentWork12\IndependentWork12\obj\Debug\IndependentWork12.pdb
