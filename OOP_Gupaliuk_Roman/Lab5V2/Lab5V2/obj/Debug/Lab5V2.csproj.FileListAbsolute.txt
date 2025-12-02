@@ -1,0 +1,7 @@
+E:\OOP_Gupaliuk Roman\OOP-Gupaliuk_Roma\OOP_Gupaliuk_Roman\Lab5V2\Lab5V2\bin\Debug\Lab5V2.exe.config
+E:\OOP_Gupaliuk Roman\OOP-Gupaliuk_Roma\OOP_Gupaliuk_Roman\Lab5V2\Lab5V2\bin\Debug\Lab5V2.exe
+E:\OOP_Gupaliuk Roman\OOP-Gupaliuk_Roma\OOP_Gupaliuk_Roman\Lab5V2\Lab5V2\bin\Debug\Lab5V2.pdb
+E:\OOP_Gupaliuk Roman\OOP-Gupaliuk_Roma\OOP_Gupaliuk_Roman\Lab5V2\Lab5V2\obj\Debug\Lab5V2.csproj.AssemblyReference.cache
+E:\OOP_Gupaliuk Roman\OOP-Gupaliuk_Roma\OOP_Gupaliuk_Roman\Lab5V2\Lab5V2\obj\Debug\Lab5V2.csproj.CoreCompileInputs.cache
+E:\OOP_Gupaliuk Roman\OOP-Gupaliuk_Roma\OOP_Gupaliuk_Roman\Lab5V2\Lab5V2\obj\Debug\Lab5V2.exe
+E:\OOP_Gupaliuk Roman\OOP-Gupaliuk_Roma\OOP_Gupaliuk_Roman\Lab5V2\Lab5V2\obj\Debug\Lab5V2.pdb

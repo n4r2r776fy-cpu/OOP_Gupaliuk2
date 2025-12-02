@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|e:\\oop_gupaliuk roman\\oop-gupaliuk_roma\\oop_gupaliuk_roman\\lab5v2\\lab5v2\\image||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|solutionrelative:lab5v2\\image||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|e:\\oop_gupaliuk roman\\oop-gupaliuk_roma\\oop_gupaliuk_roman\\lab5v2\\lab5v2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|solutionrelative:lab5v2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5V2\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|e:\\oop_gupaliuk roman\\oop-gupaliuk_roma\\oop_gupaliuk_roman\\lab5v2\\lab5v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|solutionrelative:lab5v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|e:\\oop_gupaliuk roman\\oop-gupaliuk_roma\\oop_gupaliuk_roman\\lab5v2\\lab5v2\\invalidgradeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|solutionrelative:lab5v2\\invalidgradeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|e:\\oop_gupaliuk roman\\oop-gupaliuk_roma\\oop_gupaliuk_roman\\lab5v2\\lab5v2\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|solutionrelative:lab5v2\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|e:\\oop_gupaliuk roman\\oop-gupaliuk_roma\\oop_gupaliuk_roman\\lab5v2\\lab5v2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF7E4A8-805A-4E6B-8766-F0A2066EF80B}|Lab5V2\\Lab5V2.csproj|solutionrelative:lab5v2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "image.png",
+              "DocumentMoniker": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\image.png",
+              "RelativeDocumentMoniker": "Lab5V2\\image.png",
+              "ToolTip": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\image.png",
+              "RelativeToolTip": "Lab5V2\\image.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-11-10T03:49:22.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "image",
+              "DocumentMoniker": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\image",
+              "RelativeDocumentMoniker": "Lab5V2\\image",
+              "ToolTip": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\image",
+              "RelativeToolTip": "Lab5V2\\image",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-10T03:49:11.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\README.md",
+              "RelativeDocumentMoniker": "Lab5V2\\README.md",
+              "ToolTip": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\README.md",
+              "RelativeToolTip": "Lab5V2\\README.md",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-10T03:45:05.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidGradeException.cs",
+              "DocumentMoniker": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\InvalidGradeException.cs",
+              "RelativeDocumentMoniker": "Lab5V2\\InvalidGradeException.cs",
+              "ToolTip": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\InvalidGradeException.cs",
+              "RelativeToolTip": "Lab5V2\\InvalidGradeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:40:20.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\Student.cs",
+              "RelativeDocumentMoniker": "Lab5V2\\Student.cs",
+              "ToolTip": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\Student.cs",
+              "RelativeToolTip": "Lab5V2\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:40:07.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\Repository.cs",
+              "RelativeDocumentMoniker": "Lab5V2\\Repository.cs",
+              "ToolTip": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\Repository.cs",
+              "RelativeToolTip": "Lab5V2\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:39:49.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5V2\\Program.cs",
+              "ToolTip": "E:\\OOP_Gupaliuk Roman\\OOP-Gupaliuk_Roma\\OOP_Gupaliuk_Roman\\Lab5V2\\Lab5V2\\Program.cs",
+              "RelativeToolTip": "Lab5V2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:39:23.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
